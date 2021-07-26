@@ -12,3 +12,5 @@
 ### ➡️ 노션
 
 [뿌링클론 노션](https://www.notion.so/3dbf5358278d42b79a46b152af40b9f5)
+
+[뿌링클론 공유게시판](https://www.notion.so/8f131d09ddb94546a7cadbceed8c78d2?v=698dba2d037649bc8c394a3c7b8154d3)
